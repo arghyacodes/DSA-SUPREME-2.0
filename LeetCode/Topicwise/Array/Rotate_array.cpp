@@ -35,3 +35,14 @@ void rotate(vector<int>& nums, int k) {
             }
         }
 */
+#include<iostream>
+#include<vector>
+using namespace std;
+int main()
+{
+    vector<int> arr = {1,2,3,4,5};
+    int k = 3;
+    int n = arr.size();
+    vector<int> ans;
+    return 0;
+}
