@@ -19,7 +19,7 @@ void pos(string &s, int i)
 }
 int main()
 {
-   string s = "abc";
+   string s = "321";
    int i = 0;
    pos(s,i);
    return 0;
